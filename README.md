@@ -37,7 +37,7 @@ In another project, I hope to build a more robust chatbot that will be able to s
  
  For the model, I followed TensorFlow's tutorial on building [A Transformer Chatbot Tutorial with TensorFlow 2.0](https://blog.tensorflow.org/2019/05/transformer-chatbot-tutorial-with-tensorflow-2.html). For the chat interface, I decided to stick with building a working chat object that would use the Transformer model to generate responses. It thinks I'm cute and that's all I need to feel successful as can be seen in the picture below:
  
- (https://github.com/lindbergag/talkingtoourselves/blob/main/effectivemodel.png)
+ ![sample chat](https://github.com/lindbergag/talkingtoourselves/blob/main/effectivemodel.png)
  
  To help with my understanding of the Transformer architecture, I built, and gave a presentation with animations that was intended to help a lay-person understand the Transformer model. This deeper, more nuanced understanding of the model helped me to think through and design the 'ChatBot' class in the [python script for this project.](https://github.com/lindbergag/talkingtoourselves/blob/main/transformerchatbot.ipynb)
  
