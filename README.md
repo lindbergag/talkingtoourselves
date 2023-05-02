@@ -1,4 +1,5 @@
 # Talking to Ourselves
+## A basic generative chatbot using TensorFlow, the transformer architecture, and object-oriented Python.
 
  This is a project for codecademy's course, [Build Chatbots with Python](https://www.codecademy.com/learn/paths/build-chatbots-with-python) in which I use the Transformer model to build a generative chatbot. With the explosion in popularity of large language models like ChatGPT, generative open-domain chatbots will be necessary to meet the needs of businesses and users in the near and distant future. 
 
